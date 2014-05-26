@@ -1,7 +1,7 @@
-feedback-desbenoit-icones
-=========================
+# Livre « Design d'icônes : le manuel » : retours
 
-Retours sur le livre [« Design d'icônes : le manuel »](http://boutique.letrainde13h37.fr/products/design-icones-le-manuel-sebastien-desbenoit) de Sébastien Desbenoit
+
+Retours sur le livre [« Design d'icônes : le manuel »](http://boutique.letrainde13h37.fr/products/design-icones-le-manuel-sebastien-desbenoit) de [Sébastien Desbenoit](http://desbenoit.net/)
 
 N'hésitez pas à ouvrir des issues pour proposer des corrections, soumettre des idées, demander des compléments…
 
